@@ -1,26 +1,26 @@
 <svg height="366" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="366" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-17 12:56:29 +0000  1334520 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-17 12:56:29 +0000     1159 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-17 12:56:29 +0000    17542 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-17 12:56:29 +0000     6269 bytes  bin/z-schema</tspan>
-<tspan x="10" y="90">  4.  2017-04-17 12:56:29 +0000    99679 bytes  dist/ZSchema-browser-min.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-17 12:56:29 +0000   124294 bytes  dist/ZSchema-browser-min.js.map</tspan>
-<tspan x="10" y="122">  6.  2017-04-17 12:56:29 +0000   719844 bytes  dist/ZSchema-browser-test.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-17 12:56:29 +0000   258301 bytes  dist/ZSchema-browser.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-17 12:56:29 +0000     3577 bytes  package.json</tspan>
-<tspan x="10" y="170">  9.  2017-04-17 12:56:29 +0000     3925 bytes  src/Errors.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-17 12:56:29 +0000     4673 bytes  src/FormatValidators.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-17 12:56:29 +0000    21762 bytes  src/JsonValidation.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-17 12:56:29 +0000      577 bytes  src/Polyfills.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-17 12:56:29 +0000     5620 bytes  src/Report.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-17 12:56:29 +0000     4470 bytes  src/SchemaCache.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-17 12:56:29 +0000     9744 bytes  src/SchemaCompilation.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-17 12:56:29 +0000    26686 bytes  src/SchemaValidation.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-17 12:56:29 +0000     6106 bytes  src/Utils.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-17 12:56:29 +0000    11238 bytes  src/ZSchema.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-17 12:56:29 +0000     4639 bytes  src/schemas/hyper-schema.json</tspan>
-<tspan x="10" y="346"> 20.  2017-04-17 12:56:29 +0000     4415 bytes  src/schemas/schema.json</tspan>
+<tspan x="10" y="26">  0.  2017-04-17 12:57:32 +0000  1334520 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-17 12:57:32 +0000     1159 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-17 12:57:32 +0000    17542 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-17 12:57:32 +0000     6269 bytes  bin/z-schema</tspan>
+<tspan x="10" y="90">  4.  2017-04-17 12:57:32 +0000    99679 bytes  dist/ZSchema-browser-min.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-17 12:57:32 +0000   124294 bytes  dist/ZSchema-browser-min.js.map</tspan>
+<tspan x="10" y="122">  6.  2017-04-17 12:57:32 +0000   719844 bytes  dist/ZSchema-browser-test.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-17 12:57:32 +0000   258301 bytes  dist/ZSchema-browser.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-17 12:57:32 +0000     3577 bytes  package.json</tspan>
+<tspan x="10" y="170">  9.  2017-04-17 12:57:32 +0000     3925 bytes  src/Errors.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-17 12:57:32 +0000     4673 bytes  src/FormatValidators.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-17 12:57:32 +0000    21762 bytes  src/JsonValidation.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-17 12:57:32 +0000      577 bytes  src/Polyfills.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-17 12:57:32 +0000     5620 bytes  src/Report.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-17 12:57:32 +0000     4470 bytes  src/SchemaCache.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-17 12:57:32 +0000     9744 bytes  src/SchemaCompilation.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-17 12:57:32 +0000    26686 bytes  src/SchemaValidation.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-17 12:57:32 +0000     6106 bytes  src/Utils.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-17 12:57:32 +0000    11238 bytes  src/ZSchema.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-17 12:57:32 +0000     4639 bytes  src/schemas/hyper-schema.json</tspan>
+<tspan x="10" y="346"> 20.  2017-04-17 12:57:32 +0000     4415 bytes  src/schemas/schema.json</tspan>
 </text>
 </svg>
