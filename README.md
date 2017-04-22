@@ -1,4 +1,7 @@
-# test coverage for  [z-schema (v3.18.2)](https://github.com/zaggino/z-schema)  [![npm package](https://img.shields.io/npm/v/npmtest-z-schema.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-z-schema) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-z-schema.svg)](https://travis-ci.org/npmtest/node-npmtest-z-schema)
+# npmtest-z-schema
+
+#### basic test coverage for  [z-schema (v3.18.2)](https://github.com/zaggino/z-schema)  [![npm package](https://img.shields.io/npm/v/npmtest-z-schema.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-z-schema) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-z-schema.svg)](https://travis-ci.org/npmtest/node-npmtest-z-schema)
+
 #### JSON schema validator
 
 [![NPM](https://nodei.co/npm/z-schema.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/z-schema)
